@@ -1,1 +1,1 @@
-export * from "./EventBlock";
+export * from "./course-calendar/EventBlock";
